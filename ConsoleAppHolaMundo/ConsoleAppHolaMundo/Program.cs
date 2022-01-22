@@ -20,7 +20,9 @@ var baldoCar = new Car()
 
 
 Console.WriteLine(baldoCar.Id);
+Console.WriteLine();
 Console.WriteLine(baldoCar.Name);
+Console.WriteLine();
 Console.WriteLine(baldoCar.Brand);
 
 

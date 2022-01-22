@@ -26,5 +26,5 @@ Console.WriteLine();
 Console.WriteLine(baldoCar.Brand);
 
 
-
+Console.WriteLine("falto esto");
 Console.ReadLine(); 

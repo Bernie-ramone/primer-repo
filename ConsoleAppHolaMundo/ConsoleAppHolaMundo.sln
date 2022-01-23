@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppHolaMundo", "ConsoleAppHolaMundo\ConsoleAppHolaMundo.csproj", "{E6C58E6B-EC31-4959-BAFD-915B9DE34ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{4B0A1BA5-5BFC-4071-B087-987222E9DE24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E6C58E6B-EC31-4959-BAFD-915B9DE34ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6C58E6B-EC31-4959-BAFD-915B9DE34ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6C58E6B-EC31-4959-BAFD-915B9DE34ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0A1BA5-5BFC-4071-B087-987222E9DE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0A1BA5-5BFC-4071-B087-987222E9DE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0A1BA5-5BFC-4071-B087-987222E9DE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0A1BA5-5BFC-4071-B087-987222E9DE24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
